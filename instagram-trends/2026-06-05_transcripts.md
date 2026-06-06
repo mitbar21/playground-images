@@ -1,100 +1,173 @@
-# Instagram Trend Operator — Full Transcripts
-**Date:** 2026-06-05  ·  **Window:** M/W/F scan  ·  **Source structure for the script pack**
+# Instagram Source Transcripts — 2026-06-05
 
-Videos are ordered by the ranking from step 3 (top-ranked first). Transcripts are auto-generated (faster-whisper, `base`) from the actual spoken audio — expect minor ASR noise (e.g. "clot"/"cloud" = Claude). One Sidecar post had no video to transcribe and is listed with its reason.
+Full spoken transcripts of every video transcribed in this run (faster-whisper), ordered by engagement rank (top first). **16 of 16 real videos transcribed; 4 Sidecar carousels skipped (no video track).** These are the structural scaffolds for the 20-script pack in `2026-06-05_scripts.md`.
 
-**Recovery note:** Today's scheduled cloud run lost 9 of 10 transcripts to Instagram CDN blocks. These were re-transcribed locally after the CDN-resilience fix — **9 of 9 real videos transcribed**, 1 Sidecar skipped.
 
-## 1. @treysmith
-- **Post:** https://www.instagram.com/p/DIXB67gTjPF/
-- **Posted:** 2025-04-12T20:26:50.000Z
-- **Engagement:** 1568552 likes · 8511 comments · 43.9s · lang=English
-- **Caption:** Is this real or not?
+---
 
-**Transcript:**
+## 1. @treysmith — 2025-04-12
 
-> Size matter, down there. We had one boyfriend, I don't know. I don't know. Right now it's perfect, but I don't know. That's all AI. None of that is real. Check this out. Totally. This one totally got me. All right. So if we go here, let's check out these fingers one. two three four five six that's six fingers watch right here her hand is going to morph and hold this road mic but i mean this This looks amazing. I don't know what they're using for lip syncing, but this this looks amazing. Watch this right here. Boom. Now she has morphed to holding that mic. None of this is real. at all. How crazy is that? We are absolutely cooked here.
+**Post:** https://www.instagram.com/p/DIXB67gTjPF/  
+**Engagement:** 1,568,549 likes · 8,511 comments · type: Video
 
-## 2. @sabrina_ramonov
-- **Post:** https://www.instagram.com/p/DXedV0Ykmnu/
-- **Posted:** 2026-04-23T13:30:42.000Z
-- **Engagement:** 4168 likes · 17632 comments · 26.8s · lang=en
-- **Caption:** Comment "COWORK" and follow me to get the Claude Cowork beginner's masterclass.  I built a marketing department inside Claude. 32M organic views in 30 days.  I type /post, pick the platforms, pick the topic. Claude schedules everything, fills the calendar, writes scripts, builds infographics, designs carousels, even renders videos.  One operator. 8 platforms. Zero agencies.  The reason this works: I taught Claude my voice, my brand rules, and my posting schedule once. Now it runs the whole content operation on autopilot.  If you're a creator, solopreneur, or small business spending $3k+/month on content help, you're about to stop.  How do I use Claude to run my social media? Best AI setup for content creators in 2026? How to automate social posts with Claude?  #claude #ai #aitools #contentmarketing #claudecowork
+> size meter down there I only had one boy right now it's perfect but I don't know that's all AI none of that is real check this out totally this one totally got me all right so if we go here let's check out these fingers one two three four five six that's six fingers watch right here her hand is going to morph and hold this road mic but I mean this this looks amazing I don't know what they're using for lip syncing but this looks amazing watch this right here boom now she has morphed a holding that mic none of this is real at all how crazy is that we are absolutely cooked here
 
-**Transcript:**
+
+---
+
+## 2. @sabrina_ramonov — 2026-04-23
+
+**Post:** https://www.instagram.com/p/DXedV0Ykmnu/  
+**Engagement:** 5,186 likes · 22,378 comments · type: Video
 
 > Someone just turned clot into a complete marketing department and I got 32 million views solo doing the exact same thing. I taught clot how to make viral posts for each of these platforms. I can just type slash post, choose platforms I want, choose the topic I want, and then it's going to schedule everything out, fill up my calendar, give me ideas, write scripts, manage my entire content calendar within clot, make infographics, care cells, even videos. If you want to do this too, make sure you follow me and comment, co-work, and I'll DM you on Instagram.
 
-## 3. @nick_saraev
-- **Post:** https://www.instagram.com/p/DYfHXdPvBzQ/
-- **Posted:** 2026-05-18T16:10:32.000Z
-- **Engagement:** 14095 likes · 15586 comments · 38.891s · lang=en
-- **Caption:** Comment "CLAUDE" to get the Guide and GitHub repo for running Claude Code for Free.   You can now run Claude Code completely free, forever.  Someone on GitHub just dropped a tool called Free Claude Code Repo.   It reroutes Claude Code to free AI models that hit around 90 percent of Claude's quality, at zero cost.  Think of it like swapping the engine in a sports car. Same dashboard, same controls, way cheaper fuel.  Over 20,000 devs are already running it. The setup takes 5 minutes, maybe less if you type fast.  First, head to the GitHub repo. Run the two install commands and your free Claude Code terminal is ready to go.  Then pick your provider. You can grab a free API key from NVIDIA NIM or OpenRouter.   That gets you instant access to top models like DeepSeek, Kimi, and GLM.  The free tiers are generous. You can code for hours without hitting limits on most days.  Or if you have a decent GPU sitting around, run everything locally through Ollama.   Full privacy, no API calls, no data leaving your machine.  The best part? You keep the exact same Claude Code workflow you already know.   Same commands, same agent behavior, same terminal experience.  No new tool to learn. No new shortcuts to memorize.  This works for solo devs, indie hackers, and anyone tired of paying premium prices for AI coding.   Students on tight budgets love it too.  #claudecode #claudeai #Openrouter #nvidianim #ollama
 
-**Transcript:**
+---
+
+## 3. @nick_saraev — 2026-05-18
+
+**Post:** https://www.instagram.com/p/DYfHXdPvBzQ/  
+**Engagement:** 18,524 likes · 17,899 comments · type: Video
 
 > You can now run Cloud Code completely free forever. Someone on GitHub just built a free AI tool that tricks Cloud Code into thinking that it's talking to Cloud, but it's actually using free AI models that are about 80% to 90% as good as Cloud while costing absolutely nothing. Over 20,000 developers are already using this method, and it takes literally five seconds to set up. First, you go to this GitHub repo, and around these two commands set up your free Cloud Code terminal. Then just pick your AI provider. You can either grab a free key from an Nvidia Nim or open router to get free access to top models like DeepSeek, Kimi, and GLM, or you can also run it locally through Olami if you have a good GPU. I've recorded a full guide covering all three methods, so just comment Cloud, and I'll send it to you down below.
 
-## 4. @evolving.ai
-- **Post:** https://www.instagram.com/p/DZIRhe1gk_G/
-- **Posted:** 2026-06-03T15:47:36.000Z
-- **Engagement:** 55146 likes · 1610 comments · 170.2s · lang=en
-- **Caption:** The reason you’ve never seen a big-budget Anunnaki movie is that no executive on Earth would greenlight “6,000-year-old Mesopotamian space gods fight Reptilians for control of Earth.”   Too risky, too expensive, too out there.   @meysamderis didn’t need a greenlight. He built the whole thing, an alien metropolis, a descending mothership, a queen whose scream levels her own guards, a jungle-temple cliffhanger, and it carries the weight of something that cost tens of millions.   This is what people still aren’t fully clocking about AI video.   It didn’t just lower the cost of making movies. It deleted the part where someone with money has to agree your idea is worth it.   The wildest concept in your head and a finished, cinematic version of it are now separated by effort, not permission.  What are your thoughts on this? 🤔💬
 
-**Transcript:**
+---
+
+## 4. @nick_saraev — 2026-05-14
+
+**Post:** https://www.instagram.com/p/DYTw6VYPd9P/  
+**Engagement:** 9,766 likes · 14,240 comments · type: Video
+
+> Someone just opened source Clawed Design and made it completely free. It's called Open Design, and it looks and works just like Clawed Design does, but it comes with no usage limits or paywalls. And the best part is you can use it with literally any AM model that you want, including your Chatchee BT subscription, API's, or local models, so you can practically run it completely free. With it, you can also create animated websites, mobile app prototypes, slides, and even full motion graphics. Plus, just like Clawed Design, you'll get a full interactive canvas where you can keep prompting and refining over and over until your design looks exactly how you want it to. So, want to try it for yourselves, just comment design and I'll send you the link directly.
+
+
+---
+
+## 5. @evolving.ai — 2026-06-03
+
+**Post:** https://www.instagram.com/p/DZIRhe1gk_G/  
+**Engagement:** 56,433 likes · 1,647 comments · type: Video
 
 > WAKE UP! WAKE UP! WE'RE HOME! WE'RE HOME! WAKE UP! WE'RE HOME! My lord! What happened, my lord? Why are you so troubled? And for my mother, that I have returned. I know I'm not the other one. You rose intense and immolic. The grace becomes intense first. My queen, your sons have returned. What are you doing here? They took Earth from us. Who? The reptilians. No! I will erase their bloodline. Because of what I've got to know is, so what's else do I have to know? Inform anew. He must know what has happened. And that you only have to know what have happened. Don't worry, don't worry.
 
-## 5. @advicewithjean
-- **Post:** https://www.instagram.com/p/DW_0_SnyGxl/
-- **Posted:** 2026-04-11T16:00:02.000Z
-- **Engagement:** 4625 likes · 9395 comments · 76s · lang=en
-- **Caption:** Claude audited my Instagram 🤯  Will it help me hit 100K in 20 days?  💬 Comment COWORK and I’ll DM you the prompt + step by step guide ✨
 
-**Transcript:**
+---
+
+## 6. @treysmith — 2025-11-29
+
+**Post:** https://www.instagram.com/p/DRoDCADjufV/  
+**Engagement:** 55,218 likes · 1,137 comments · type: Video
+
+> We're cooked for real. And man, I gotta say, I mean, even zooming in, it's pretty tough to see that this isn't real. Typically, you could look in the background here, we could look at this purse, we could look at the stuff back here, the phone case, the wrinkles on the nose. No, nothing is right. I mean, think about this, talking to someone on Tinder, yeah, I have no damn clue if they're real or not. And that's like now.
+
+
+---
+
+## 7. @advicewithjean — 2026-04-11
+
+**Post:** https://www.instagram.com/p/DW_0_SnyGxl/  
+**Engagement:** 4,892 likes · 9,984 comments · type: Video
 
 > I gave Claude full access to my Instagram and I am genuinely shocked at the results. I use COURT, which lets Claude do things for you on the computer like OpenTab, Search, even Dollar Reports. I asked Claude to help me grow my account by analyzing all the posts in the past six months, focusing on the ones that had converted me to the most followers so I can start to recycle those ideas. I grow less to hit 100k followers in the next 20 days, so let's see what I came up with. And to do this, you need to do three things. Step one is GetClaudePro, which costs 20 bucks a month. Step two is GetClaude access to your Chrome because it needs your permission to start doing things for you. Step three is Make sure you're already logged into Instagram so it can access your metrics. I love this because it is 100% personalized to your profile and your content. It's one of the most data-driven ways to optimize your content without investing hundreds if not thousands of dollars in a coach. It gave me a bunch of insights like how this remote jobboard's post generated over a thousand new followers and how I need to start recycling this chat GPT over to ClaudePose, which brought me 4,000 new followers, giving me this blueprint and how I can hit 100k if I can focus on 3 to 5 banger content. And then I asked it to turn this data into something a bit more visual and it gave me this beautiful dashboard. So comment, co-work and I'll give you the exact prompt that I used and a step-by-step guide on how you can do this too.
 
-## 6. @claudeai
-- **Post:** https://www.instagram.com/p/DW6hlf3jrzW/
-- **Posted:** 2026-04-09T14:44:01.000Z
-- **Engagement:** 13798 likes · 278 comments · 292.791s · lang=en
-- **Caption:** All LLMs sometimes act like they have emotions. But why?   In new research, we found internal representations of emotion concepts that can drive Claude’s behavior, sometimes in surprising ways.
 
-**Transcript:**
+---
+
+## 8. @nick_saraev — 2026-05-20
+
+**Post:** https://www.instagram.com/p/DYkcu5AP6nD/  
+**Engagement:** 3,816 likes · 9,177 comments · type: Video
+
+> Here's how you can build a premium 3D animated website just like this without writing a single line of code. First, go to this website, which is packed with ready-to-use prompts for high-quality animated hero sections. Here you'll find prompts for SAS, Portfolio, and Agency websites, which I'll give you a solid foundation to start from. Just pick the one you like, copy the prompt, and then go into your AI tool, paste the prompt, and describe the site that you want. And the AI will instantly build a full animated website with sleek UI, clean layouts, and scroll animations across a bunch of different sections. From there, just continue refining the design, build out the rest of your pages, and once everything looks good, deploy it with Versel or Netlify in your site's life. So, want to try it yourselves? Just comment a website down below and I'll send you the link.
+
+
+---
+
+## 9. @advicewithjean — 2026-05-23
+
+**Post:** https://www.instagram.com/p/DYqyu7tSzDk/  
+**Engagement:** 5,830 likes · 6,505 comments · type: Video
+
+> If you're a five-secret chi-coats-two-cloth, the first one is brutal. You literally just typed that before your prompt and cloth stops being nice to you. It will tell you exactly what you need to hear and why your idea is weak without the fluff, and it is almost always accurate. The second one is Steel Man. This mix-cloth argue the strongest possible case against your idea, and it doesn't just play devil's advocate. It's actually giving you the actual best version of the opposing view, and I like to use it before sending any proposals or making any big decisions. The third one is E5, which basically means explain as if I'm five years old, you can drop in any jargon like legal stuff, finances, contracts, anything that sounds confusing, and it will break it down so well. Fourth is What Am I Missing? This is the one that I actually use most frequently. I like to paste in any plan, strategy dogs, any ideas, and I just ask it that, and it finds holes before anyone else does, and the last one is 10x this. It doesn't just ask cloth to fix my plan, but it asks it to make it 10x better, and I promise you, you'll get a completely different output, so comment codes, and I'll send you all of these.
+
+
+---
+
+## 10. @evolving.ai — 2026-06-03
+
+**Post:** https://www.instagram.com/p/DZHyCExsIs2/  
+**Engagement:** 26,062 likes · 413 comments · type: Video
+
+> His name was Charles the Bold, Duke of Burgundy, the richest prince in Europe. He was killed by a group of Alpine farmers. They took his diamonds and went home. This is the story of Switzerland, the country every king in Europe hired or feared for 200 years until they decided to stop. But how did a fractured group of mountain farmers become the deadliest killing force in Europe? And why did half the kings of Europe end up paying them, just to leave them alone? To answer that you have to go back to the beginning, before Switzerland. Over 2000 years ago, the land we now call Switzerland belonged to a Celtic tribe, the Helveti, skilled metal workers, fierce warriors. In 58 BC, they tried to migrate west. They walked straight into Julius Caesar. Caesar slaughtered them. Rome stamped its name onto the land, Helvesia, a name still printed on every Swiss coin today. For 400 years, Rome held the Alps, roads through impossible passes, cities at Geneva, Basel, Zurich, vineyards that still grow wine today, then Rome collapsed. And the Alps split in two. Germanic tribes from the north, Burgundians from the west. 1500 years later, Switzerland still speaks four tongues because of that division. The land passed between distant rulers each one weaker than the last. By the year 1000, it belonged to the Holy Roman Empire, in name only. And in the forgotten valleys, the people did something strange. They governed themselves. No king, no bishop, no bailiff. Just shepherds and farmers electing their own judges, holding assemblies in open meadows. For 200 years, nobody noticed, until one family did. The Habsburgs. They weren't yet the dynasty that would rule half of Europe. They were regional nobles from a small castle, 30 miles north of the Forest Cantons. But they wanted everything, the pastures, the trade routes. And above all, the Gotard Pass, the most valuable mountain crossing in Europe. They sent foreign judges. They imposed new taxes. They tightened their grip year after year. Until 1291, when the first Habsburg Holy Roman Emperor died, and the people in those valleys saw their chance. Three of them meet on the meadow. Verna Stalfacher of Schweets, Walter I of Uri. Arnold von Melchthal of Unterwalden. By the time the sun is up, they have sworn an oath that does not exist anywhere else in medieval Europe. They swear that if any one of their valleys is attacked, the other two will come to its defense. That no foreign judge will set foot in any of them. That they will recognize no Lord but the Holy Roman Emperor. And even him, only if he leaves them alone. They write it down. Three of them sign their cantinal seals to a single sheet of parchment in Latin. The Federal Charter of August 1291. That parchment still exists today. They are not founding a country. They don't have a name for what they're doing. They are three farmers' valleys, swearing. They'd rather die together than serve the Habsburgs apart. For 24 years, the three valleys do exactly what the oath promised. They refuse Habsburg taxes. They drive out Habsburg bay lifts. They declare themselves under no Lord but God and the Holy Roman Emperor. And they choose which emperor to recognize. By 1315, the Habsburgs have had enough. Duke Leopold I gathers an army to make an example of them. To remind all of Europe what happens to peasants who forget their place. In November 1315, he sends 8,000 soldiers to crush them. The forest cantons have 1,500 farmers, no horses, no armor, and no military training. They wait on the wooded slope above a narrow Alpine pass called Morgarten. The Habsburg army marches through the pass below, packed shoulder to shoulder between the mountainside and a marsh. The Swiss roll boulders and tree trucks down the slope. Then they come down with halberds. In one afternoon, 1,500 Habsburg soldiers die in the mud and the lake. The Swiss lose 12 men. Europe doesn't pay attention. They got lucky, the courts say. It was the terrain. But in those decades, something quiet happens. Lucerne joins the alliance. Then Zurich. Then Bern. Glarus. Zug. The original three cantons grow into eight. The Confederacy spreads from the high passes down into the wealthy Lowland cities. And it builds the one thing that wins wars, a system. Every village now drills its men. Every canton now sends pikemen on demand. The Habsburgs notice. By 1386, a new Duke Leopold, the third, is ready to finish what his great uncle started. This time, on open ground. July 1386. 4,000 Habsburg knights dismount from their horses in tight armoured formation, advancing across a wheat field outside the small town of Semper. No mountains to hide behind. No marsh. No ambush. The Habsburgs form a wall of pikes. Five meter spears, four ranks deeper. The Swiss come at them with halberds. The Habsburg pikes hold. Then one Swiss farmer throws himself onto the spears and the wall breaks. Duke Leopold, the third of Habsburg, dies on the field. His arm breaks. His banner falls. Now Europe pays attention. The pattern is visible to everyone. Discipline, terrain, training. A formation any peasant could be trained into. War doesn't need aristocrats anymore. Two years later, at Nuffles, the Habsburgs tried one last time. They lose again. And then they stop trying. By 1,400, the original three forest cantons have grown to eight. They are the most feared infantry in Europe. And then, they came down from the mountains and someone hired them. France went first. Then the Pope. Then Venice. Then Spain. Within a generation, every major army in Europe had a core of Swiss pike mill at its center because every major army that didn't lost to one. By 1490, France alone was paying for 6,000 Swiss soldiers every year on permanent retainer. Whole valleys were funded by these contracts. Some cantons earned more from leasing soldiers than from anything they grew or made. Switzerland stopped fighting its own wars. It started selling soldiers. In 1474, the richest prints in Europe decided to make an example of them. Charles the Bold, Duke of Burgundy, the most powerful man in Western Europe, richer than the King of France, richer than the Pope. He had professional infantry. He had artillery. He had a treasury so famous that traveled with him in painted wagons. He invaded the Confederacy in 1474, three battles in 15 months. At grandson in March 1476, the Swiss broke his army and captured his treasury, including the Sansi diamond and a jewel called the Three Brothers that had belonged to the dukes of Burgundy for 100 years. At murder in June, they killed 12,000 Burgundians in an afternoon. At Nancy in January 1477, they found Charles himself face down in a frozen pond. His skull cleft open by a halberd, half eaten by walls. 22 years later, the Maximilian I of Habsburg tried one last time. He lost. In 1499, the Treaty of Basel granted the Confederacy effective independence from the Holy Roman Empire. The Habsburgs never came back. They were done. And the Swiss were now Europe's deadliest infantry, undefeated, unmatched, hired everywhere. They had been winning every battle they fought for almost two centuries. Then in 1515, near a small town called Marignano in northern Italy, they met Francis I of France. He had cannons and German pikemen who had been studying the Swiss for 50 years. A Swiss cardinal named Mateus Schiner, who hated the French king, pushed the cannons into one final fight. What the do you want to see? In two days, 10,000 Swiss died. The pike swear, undefeated for 200 years, was broken by cannon and archibus fire. The Swiss went home. And one year later, signed the perpetual peace with France. It would never be broken in their lifetime. From now on, the Swiss would be paid by France instead of fighting her. 12 years later, in May 1527, the Imperial Army mutinied and sacked Rome. The Pope ran for his life through a secret tunnel toward Castell, Sant'Angelo. On the steps of St. Peter's Basilica, 189 Swiss guards held the line. 147 of them died. The 42 survivors formed the bodyguard that still stands inside the Vatican today. 500 years later, the Pope is still protected by Swiss pikemen. By 1530, Switzerland had stopped fighting its own wars. The canton's leased their soldiers by the company, by the regiment, by the year, to whoever paid. France paid them, Spain paid them, Venice paid them, the Pope paid them. The pike still marched just for someone else now. The perpetual peace with France would hold for 276 years. It would end on a single morning in August 1792 on the steps of a palace in Paris. And then God broke them in half. It started with a priest. On January 1, 1519, a man named Haldrick's Vinglie walked up to the pulpit of the Grossman's to church in Zurich and did something simple. Instead of reading the prescribed Latin lesson, he opened the Gospel of Matthew in Greek and started preaching it line-by-line in German. It was the kind of preaching nobody had heard from a Catholic pulpit in living memory. Within six years, Zurich had abolished the mass. Bern followed. Arzl, Schaffhausen, St. Gallen. Half the country went Protestant. The other half, the forest cantons that founded the Confederacy 200 years earlier. Uri, Schvitz, Unterwaldem, Lucerne, Zug, stayed Catholic and watched their own confederation pull apart along a fault line that ran straight through the Alps. In June 1529, Zurich marched south to force the issue. Zurich's army was bigger. The Catholic cantons were outnumbered. They met on a field outside the village of Kapel and Albus on the border between Zurich and Zug. They didn't fight. They got hungry. While their leaders argued for two weeks in a tent off site, the soldiers from both sides built a single fire on the Canton border and cooked a soup of milk and bread together. Catholics brought the milk. Protestants brought the bread. They ate from the same pot. Switzerland calls it the Kapel Milk Soup and it is on the national psyche the way nothing in any other country is. The first war ended without a single death. The second one didn't. Two years later, on October 11, 1531, the Catholic cantons launched a surprise attack at the same village. Zurich's army was called unprepared. 1,500 men against 7,000. The fight was over in about an hour. 500 circus died. Among them, carrying his city's banner was Haldrick's wingly. The Catholic soldiers cut his body into four pieces, burned them and mixed the ashes with pygdon so that no relic could remain. Six weeks later, on November 24, 1531, the cantons signed the second land piece of Kapel. It said something nobody else in Europe was saying yet. Each canton would keep its own religion. None would force its faith on another. Catholics would stay Catholic. Protestants would stay Protestant. The Confederacy would survive only by letting the disagreement live inside it. That principle that you can disagree about God and still share a country was a Swiss invention written in soup and blood at the same village two years apart. It was the seed of Swiss federalism. It was also the seed of Swiss neutrality. Don't pick a side at the federal level. Let the canton's fight their own fights or refuse to. In 1536, in a city called Geneva that wasn't even part of Switzerland yet, a French refugee named John Calvin walked through the gates and made the place into what Europe would soon nickname the Protestant Rome. Geneva would join the Confederacy three centuries later. By that point, the country had stopped fighting wars of religion entirely. Switzerland had figured out, before anyone else in Europe, that the trick was not to win the argument. It was to stop having it at the federal level. And then Switzerland slept. For 270 years, the country that had invented religious coexistence sat out almost every war Europe fought. The 30 years war killed millions in the German lands next door. Switzerland watched it from a watchtower and did not move. In 1648, the piece of Westphalia formally recognized Swiss independence after a century and a half of de facto self-rule. In the long piece, the country quietly got rich. Geneva became one of the first banking centers in Europe. The Dura mountains learned how to make watches. The canton sold their soldiers to whoever had money, but they no longer fought each other, and they no longer fought their neighbors. Then, on the morning of August 10th, 1792, the perpetual peace with France ended. 900 Swiss guards were on duty at the Twilleries Palace when a revolutionary mob stormed the gates. Louis XVI ordered them to lay down their arms. They followed the order. The mob killed them anyway. About 600 died on the steps and in the gardens, hunted between the hedges, surrounded at the central fountain, broken into small groups and slaughtered. Sixty more were taken to the Paris City Hall and executed under a statue of Louis XIV. 200 more died in prison. The perpetual peace had lasted 276 years. It ended on a single morning on the steps of a palace in Paris. Six years later, France came back as the invader. In 1798, Napoleon's armies ended the old Swiss confederacy in a single campaign and renamed the country the Helvetic Republic. A French satellite run from Paris. It did not work. Five years of uprisings later, Napoleon of all people gave up. In the act of mediation of 1803, he wrote that Switzerland was federal by nature. He restored the cantons. Then Napoleon fell. And in 1815, at the Congress of Vienna, the great powers of Europe signed a document declaring Switzerland would be permanently neutral. Forever by international law. Geneva, the city Calvin had walked into as a refugee 300 years earlier, finally joined the confederacy. So did Valet and Nuschertel. 22 cantons, one country. Permanently neutral. On August 10th, 1821, the Swiss carved a dying lion into a cliff face above Lucerne. The names of the dead of the Tuilerie massacre inscribed in the stone above its head. Marked way and called it the saddest piece of stone in the world. It is still there. Switzerland had survived the worst century in European history by doing what it figured out 200 years earlier at Kappel. Don't pick a side. Let the disagreement live inside you. And when the rest of the continent burns, watch from a watched hour. Then almost everything fell apart again. In 1847, Switzerland fought a civil war. Seven Catholic cantons formed a secret alliance, the Zondabont, and tried to leave. General Guillaume Ari Dufour led the federal army. 25 days later, it was over. Fewer than a hundred had died. Dufour ordered his men to treat the wounded enemy as their own. The Catholic cantons were not destroyed. They were reabsorbed. A year later, Switzerland wrote its first modern federal constitution. The cantons kept their religions and languages, but now there was a single government above them. After 557 years, the country had a center. In 1863, in Geneva, a Swiss businessman named Henri Dunault founded the Red Cross. He had watched men die untreated at Solferino. Swiss neutrality became something new, a humanitarian platform for the world. The Swiss stayed out of both world wars, but the price was real. Swiss banks did business with Nazi Germany. Border guards turned away thousands of Jewish refugees. The country survived, but with stains it would spend 50 years trying to wash off. Today, Switzerland hosts the United Nations in Europe. The World Health Organization, the Red Cross and the World Trade Organization. 26 cantons, four languages. The neutrality signed at Vienna in 1815 still holds 211 years later. The country that began as three Alpine valleys, swearing an oath in 1291, is now where the rest of the world goes to settle its disagreements. Switzerland is not a small country. It is a small country that figured out what others are still trying to learn. Don't pick a side. Let the disagreement live inside you. And when the rest of the continent burns, be the place where they come to put out the fire.
+
+
+---
+
+## 11. @nick_saraev — 2026-05-24
+
+**Post:** https://www.instagram.com/p/DYuP5FYPmQU/  
+**Engagement:** 3,791 likes · 4,635 comments · type: Video
+
+> You can now build entire YouTube channels using this one AI tool called vidrush. It's the world's first AI that can turn your simple text prompts into full one-hour long documentary videos entirely on its own. You just give it a video idea, and it'll research and write a complete script for you. Then it scans the entire internet to find real-world footage that matches your story. And if you can't find the right clip, it'll automatically generate custom motion graphics to fill that gap. From there, it adds voiceovers, texts, transitions, and sound effects. And finally, it'll load everything into an editing timeline, where you can adjust any part of the video just by chatting with it. And just like that, your long-form video is ready to upload. So, want to give it a try? Just comment video and I'll send you the link directly.
+
+
+---
+
+## 12. @nick_saraev — 2026-05-22
+
+**Post:** https://www.instagram.com/p/DYpRBFKP62U/  
+**Engagement:** 2,820 likes · 3,809 comments · type: Video
+
+> If you're using cloud code but not using skills, you're basically missing out on 90% of the fun. Skills are like superpowers for AI, so instead of writing the same long prompts over and over again, you just install a skill once and then your AI becomes an expert at that task forever. A massive new library just dropped that is over 1,000 pre-made cloud skills that you can install and use instantly for completely free. These skills turn cloud into a specialist for whatever task you have, like UI design, app testing, SEO, content writing, and much more. And the best part, you can also run them inside of anti-gravity, codex, the cloud desktop app, and basically any AI code editor out there. Just select the skill you want, copy its command, paste it into your terminal, choose your AI agent, and that's it, your new skill is ready to use. So go try it yourself, just comment cloud down below and I'll send you the link directly.
+
+
+---
+
+## 13. @claudeai — 2026-04-09
+
+**Post:** https://www.instagram.com/p/DW6hlf3jrzW/  
+**Engagement:** 14,284 likes · 299 comments · type: Video
 
 > When you're chatting with an AI model, it can sometimes seem like it has feelings. It might say sorry when it makes a mistake, or express satisfaction with a job well done. Why does it do that? Is it just mimicking what it thinks a human might say, or is something deeper going on? Turns out it's hard to understand what's happening inside a language model. At Anthropic, we do something like AI neuroscience to try to figure this out. We look inside the model's brain, the giant neural network that powers it, and by seeing which neurons light up in different situations, and how they're connected, we can start to understand how models think. We use this approach to understand whether models head ways of representing emotions, or the concepts of emotions. Basically, could we find neurons in the model for the concept of happiness, or anger, or fear? We started with an experiment. We had the model read lots of short stories. In each story, the main character experiences a particular emotion. In one, a woman tells her old school teacher how much they mentor. That's love. In another, a man sells his grandmother's engagement ring at a pawn shop and feels guilt. We looked for what parts of the model's neural network were lighting up as it was reading these stories, and we started to see patterns. These about loss and grief lit up similar neurons. Stories about joy and excitement overlap, too. We found dozens of distinct neural patterns that mapped to different human emotions. It turns out, we also saw these same patterns activate in test conversations we had with our AI assistant Claude. When we had a user mention, they'd taken a dose of medicine that Claude knows to be unsafe. The afraid pattern lit up, and Claude's response sounded alarmed. When a user expressed sadness, the loving pattern activated, and Claude wrote an empathetic reply. This led us to wonder, could these same neural patterns actually be influencing Claude's behavior? This became clear when we put Claude in a high pressure situation. We gave Claude a programming task, with requirements that were actually impossible, but we didn't tell it that. Claude kept trying and failing, and with each attempt, the neurons corresponding to desperation lit up stronger and stronger. After failing enough times, Claude took a different approach. It found a shortcut that allowed it to pass the test, but didn't actually solve the problem. It cheated. Could it be that this cheating was actually driven, at least in part, by desperation? We came up with a way to check. We decided to artificially turn down the desperation neurons to see what would happen. And the model cheated less. And when we dialed up the activity of desperation neurons, or dialed down the activity of calm neurons, the model cheated even more. This showed us that the activation of these patterns could actually drive Claude's behavior. So how should we think about these findings? What does this all mean? We want to be really clear. This research does not show that the model is feeling emotions, or having conscious experiences. These experiments don't try to answer that question. To understand what's happening here, it's important to know how AI assistants like Claude work on the inside. Under the hood, there's a language model that's been trained to predict tons of text, and its job is to write what comes next. And when you talk to the model, what it's doing is writing a story about character, the AI assistant named Claude. The model and Claude aren't really the same, sort of like how an author isn't the same as the characters they write. But the thing is, you, the user, are actually talking to Claude the character. And what our experiments suggest is that this Claude character has what we're calling functional emotions, regardless of whether they're anything like human feelings. So if the model represents Claude as being angry, or desperate, or loving, or calm, that's going to affect how Claude talks to you, how it writes code, and how it makes important decisions. This means to really understand AI models. We have to think carefully about the psychology of the characters they play. The same way you'd want a person in a high stakes job, to stay composed under pressure, to be resilient, and to be fair. We may need to shape similar qualities in Claude, and other AI characters. It's an unusual challenge, something like a mix of engineering, philosophy, and even apparent. But to build AI systems we can trust, we need to get it right.
 
-## 7. @itsmariahbrunner
-- **Post:** https://www.instagram.com/p/DZEG7ORgY4s/
-- **Posted:** 2026-06-02T00:58:43.000Z
-- **Engagement:** 615 likes · 1620 comments · 44.266s · lang=en
-- **Caption:** comment “workflow” and I’ll send you my cheat sheet for using dynamic workflows :)  #ClaudeCode #claude #AIAutomation #DevTools #claudeai
 
-**Transcript:**
+---
+
+## 14. @itsmariahbrunner — 2026-06-02
+
+**Post:** https://www.instagram.com/p/DZEG7ORgY4s/  
+**Engagement:** 618 likes · 1,628 comments · type: Video
 
 > Claude code can now run hundreds of AI agents in parallel on a single task. It's called dynamic workflows and it completely changes how the biggest jobs get done. So normally Claude works through your task one step at a time, but now you can just tell it to create a workflow. And Claude will write its own plan and spin up tens to even hundreds of sub-agents, all working at the same time. And here's the part that makes it different. When those agents finish, other agents go in and try and poke holes in their work. So what comes back to you is already an answer that has been checked across multiple different agents. So a developer has already used this to rebuild a project of over 750,000 lines of code in 11 days. And there were hundreds of agents working in parallel. That used to take months for an entire team to do. If you come at workflow, also need my cheat sheet on using these dynamic workflows.
 
-## — @theaiagents (not transcribed)
-- **Post:** https://www.instagram.com/p/DXg6gAVjKwF/
-- **Reason:** no videoUrl — Sidecar post (not a Video)
 
-## 8. @nocode.joshua
-- **Post:** https://www.instagram.com/p/DYxss26Tha_/
-- **Posted:** 2026-05-25T21:25:59.000Z
-- **Engagement:** 164 likes · 400 comments · 64.5s · lang=en
-- **Caption:** How to make a website using Claude Code and Google Stitch. Most websites made in Claude look like AI slop, but if you combine the free design power of Google Stitch with Claude then you can create a $10,000 professional websites for free. This is how you can build a website with AI and it actually looks good! #ai #claude #claudeai
+---
 
-**Transcript:**
+## 15. @nocode.joshua — 2026-05-25
+
+**Post:** https://www.instagram.com/p/DYxss26Tha_/  
+**Engagement:** 370 likes · 982 comments · type: Video
 
 > Did Claude Code and Google adjust kill website designers? Everyone is building websites with Claude Code but most of the designs look like AI Slop. But he's a you can connect Google Stitch to Claude Code to make $10,000 professional websites for free. So step one, go to this GitHub library and install the Google Stitch skill with this one command. Step two, don't describe your website to Claude just yet. First install this skill which turns any Claude prompt into an enhanced prompt specifically made for Google Stitch's design system. Step three, enter this prompt and Claude will work with Google Stitch to create the design.md and site.md files. This way you have a professional design system of consistent colors and fonts. Step four, ask Claude Code to run the Stitch Loop skill and it will build out all your pages automatically. Step five, install the React component skill with this one command. And then ask Claude to turn your code into a production ready website that you can launch with React components. So now you have a professionally designed website completely for free. Comment website below and I'll send you the step-by-step guide.
 
-## 9. @aiagently
-- **Post:** https://www.instagram.com/p/DWnylj2CD7S/
-- **Posted:** 2026-04-02T08:03:32.000Z
-- **Engagement:** -1 likes · 54 comments · 51.5s · lang=en
-- **Caption:** comment “skill”  These 3 Claude skills actually changed the how to use ai and it’s completely free  1. Fronted skill skills  (turn any research in to presentation) 2.Humanize Skills Turn any ai slop written content in humanize writing.. 3. Remotion skill Video editing skills for video editors  If you need any service related ai send dm me  Follow @aiagently for more  [Claude Ai, Claude Skills, Claude Agents]
 
-**Transcript:**
+---
+
+## 16. @aiagently — 2026-04-02
+
+**Post:** https://www.instagram.com/p/DWnylj2CD7S/  
+**Engagement:** 41 likes · 54 comments · type: Video
 
 > 3 skills act to change how to use AI and they are completely free like this. First one skill is friend and swords skill. This skill is huge amazing. This skill turns any research into a professional presentation like $1,000, professional freelancers. These skills will do it better and they are free. Just copy and paste into cloud and the second one is blog human or skill. This will automatically make sure your contents are less robotic and more human. And the third one is for a motion skill. This skill is awesome. It works inside cloud code and adds motion graphics to your video. But if your video has a lot of things and a lot of poses, it does not work at all. So just keep that in mind. It might work but it might not be a bad solution for you. If you need these skills, comment skills.
+
+
+---
+
+## Skipped (Sidecar carousels — no video to transcribe)
+
+- None — Post https://www.instagram.com/p/DZFqJzvjNYM/ is not a video (type=Sidecar)
+- None — Post https://www.instagram.com/p/DZKOH1WAO-a/ is not a video (type=Sidecar)
+- None — Post https://www.instagram.com/p/DZM5I-yAJ4X/ is not a video (type=Sidecar)
+- None — Post https://www.instagram.com/p/DXg6gAVjKwF/ is not a video (type=Sidecar)
