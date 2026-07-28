@@ -1,10 +1,8 @@
-# Ads Scripts — Facebook + Google — 2026-07-28
+# Ads Scripts — Facebook + Google — 2026-07-28 (v2, voice-fixed)
 
-Six tactical paid-ads scripts in Mitch's @beardpreneur voice — **3 Facebook/Meta, 3 Google**. No AI/Claude framing. No comment bait. Agency-safe. No résumé credentials. Hook + hold reads as one continuous statement.
+Six tactical paid-ads scripts in Mitch's @beardpreneur voice — **3 Facebook/Meta, 3 Google**. Profane-light (bro, y'all, hell, shit as punctuation). No "operator." No "judgment layer / whole game." No slogan closers. No AI framing. No comment bait. Agency-safe. Run-on, spoken cadence.
 
-**Grounded in this week's outliers:**
-- FB — @omar_robert_tinsley (102x, creative-testing whiteboard), @brendenbuilds (199x, Meta algo → volume/diversity), @michaeldconsulting (20x, "the art of Meta ads is knowing what to turn OFF"), @psychologyofads (stop hunting one winner).
-- Google — @gambill_ (Google Ads campaign-type tier list: high-intent Search = S, Standard Shopping = A, PMax = B "buys your own brand traffic," AI Max = C, Display + Search Partners = F), @elitewebpros ("why your competitors show up on Google and you don't").
+**Grounded in this week's outliers:** @omar_robert_tinsley (creative testing), @brendenbuilds (Meta algo → volume), @michaeldconsulting ("the art of Meta ads is knowing what to turn OFF"), @gambill_ (Google campaign-type tier list).
 
 ---
 
@@ -13,37 +11,37 @@ Six tactical paid-ads scripts in Mitch's @beardpreneur voice — **3 Facebook/Me
 ## FB 1 — "The Meta setting quietly eating your budget"
 *Source: https://www.instagram.com/reel/Da0Sx36xHLm/ (@michaeldconsulting). Format: talking head + screen-record of the placements breakdown, ~45s.*
 
-**Hook (on-screen + said):** "There's a Meta setting on by default right now quietly eating a chunk of your budget every single day — and most of you have never opened the placements report to catch it."
+**Hook (on-screen + said):** "There's a Meta setting that's on by default right now, and it's quietly eating your budget every single day — and I'd bet most of you have never even opened the report that shows you."
 
-**Body:** "When you run Advantage+ placements wide open, Meta sprays your ad everywhere, and a big slice of that spend leaks into Audience Network — those junky third-party apps and games where somebody fat-fingers your ad, it counts as a click, your dashboard looks busy, and your actual leads are trash. Open your placements breakdown, sort by spend, and look at where the money's going versus where the purchases are actually coming from. We do this on every account we take over, and there's almost always a placement burning 15, 20 percent of the budget for basically zero buyers. Kill the dead ones, or switch to manual placements and push that money back into feed and Reels where real people convert."
+**Body:** "When you let Advantage+ placements run wide open, Meta sprays your ad everywhere, and a fat chunk of that spend slides into Audience Network — that's the junk, the free games and the sketchy apps where some kid fat-fingers your ad, it counts as a click, your dashboard looks all busy and green, and your real leads are garbage. So go pull up your placements breakdown, sort it by spend, and just look — where's the money actually going versus where are the sales actually coming from. I do this on every account we take over and there's almost always some placement quietly burning 15, 20 percent of the budget for basically zero buyers. Shut the dead ones off, or flip to manual placements, and shove that money back into feed and reels where actual humans buy stuff."
 
-**Close:** "Meta's not going to flag the leak for you. Go open the placements report and find it."
+**Close:** "Meta ain't gonna tell you it's leaking. Go open that report and find it."
 
-*Visual note: talking head; screen-record the placements/breakdown view over your shoulder. Top-zone stat pops: "Audience Network" and "15–20% wasted." Captions lower third.*
+*Visual note: talking head; screen-record the placements/breakdown view over your shoulder. Top-zone stat pops: "Audience Network," "15–20% wasted." Captions lower third.*
 
 ---
 
 ## FB 2 — "Stop hunting for one 'winning' creative"
 *Source: https://www.instagram.com/reel/DbCS2HyPqKP/ + https://www.instagram.com/reel/Daz_-ZYBmug/ (@brendenbuilds + @psychologyofads). Format: straight talking head, ~50s.*
 
-**Hook (on-screen + said):** "If you're still launching two ads and waiting to crown one 'winning' creative, you're playing a game Meta stopped rewarding — it wants volume and variety now, not your one hero ad."
+**Hook (on-screen + said):** "If you're still launching two ads and sitting there waiting to crown your one 'winning' creative, you're playing a game Meta already quit rewarding — it wants a whole pile of angles now, not your one perfect ad."
 
-**Body:** "The algorithm's whole job now is matching a specific ad to a specific person, and it can only do that if you feed it a bunch of different angles. Same offer — but one ad speaks to the price-shopper, one to the person who's been burned before, one to the impatient buyer who wants it yesterday. Five, ten angles, not one polished masterpiece you spent two weeks perfecting. We run a client's account with a steady stream of fresh angles every week and let Meta sort out who gets what — our job isn't guessing the one winner anymore, it's giving it enough raw material and then reading what it tells us. You picking the 'best' ad in a meeting is you overriding a machine that watches a billion data points a day."
+**Body:** "The algorithm's entire job now is shoving the right ad in front of the right person, and it literally can't do that if you only hand it one thing. Same offer — but you make one ad for the person who only cares about price, one for the person who got burned last time and doesn't trust anybody, one for the impatient guy who wants it yesterday. Like eight, ten different angles, not one masterpiece you sweated over for two weeks. We keep a steady drip of fresh angles going into a client's account every week and just let Meta sort out who gets what. You sitting in a meeting picking the 'best' ad? That's you overriding a machine watching a billion data points a day, bro. You're gonna lose that fight."
 
-**Close:** "Stop looking for the one winner. Give it ten shots and let it aim."
+**Close:** "Quit hunting for the one winner. Give it ten and let it run."
 
 *Visual note: tight talking head. Top-zone graphic: "1 hero ad → 10 angles." Captions lower third.*
 
 ---
 
 ## FB 3 — "The 3-day kill rule we run on every account"
-*Source: https://www.instagram.com/reel/DbNUPOktN5b/ (@omar_robert_tinsley). Format: whiteboard / on-camera listicle, ~50s.*
+*Source: https://www.instagram.com/reel/DbNUPOktN5b/ (@omar_robert_tinsley). Format: whiteboard / on-camera, ~50s.*
 
-**Hook (on-screen + said):** "If you're scaling with paid ads and you're still letting a dead creative run a full week hoping it turns around, here's the exact 3-day kill rule we run on every account."
+**Hook (on-screen + said):** "If you're scaling with paid ads and you're still letting a dead creative sit there a whole week praying it comes back to life — stop. This is the 3-day rule we run on every single account."
 
-**Body:** "Launch in ABO — five creatives, twenty bucks a day each — not CBO. Anybody telling a beginner to open in CBO is about to torch your budget. Then start the clock: no click in 24 hours, kill it. No add-to-cart by 48, kill it. Nothing bought by 72 hours, it's gone. Whatever's left standing — usually one or two — that's your real winner, and now you graduate it into a CBO or a cost cap depending on how the brand behaves, because every brand reacts different and you actually have to test it. It's not a hack. It's just discipline, and it's the whole difference between an account that scales and one that bleeds out slow."
+**Body:** "Launch in ABO, five creatives, twenty bucks a day each. Not CBO — anybody telling a beginner to start in CBO is about to light your money on fire. Then you just watch the clock. No click in 24 hours? Kill it. No add-to-cart by 48? Kill it. Nothing actually bought by 72 hours? Gone. Whatever's still standing, and it's usually one or two, that's your real winner, and now you move it up into a CBO or a cost cap depending on how the brand's been acting, 'cause they all act different and you gotta test it. It ain't sexy, it ain't some hack. It's just not being a wuss about turning stuff off."
 
-**Close:** "The winners show themselves in three days. Quit funding the losers to day seven."
+**Close:** "The winners show up in three days. Stop babysitting the losers till Sunday."
 
 *Visual note: whiteboard, write ABO / 24–48–72 / CBO as you say each. Top-zone timeline graphic. Captions lower third.*
 
@@ -51,39 +49,39 @@ Six tactical paid-ads scripts in Mitch's @beardpreneur voice — **3 Facebook/Me
 
 # GOOGLE
 
-## GOOGLE 1 — "Every broken Google account gets fixed the same boring way"
-*Source: https://www.tiktok.com/@gambill_/video/7663628215646276877 (@gambill_ — S-tier = high-intent Search). Format: talking head + tier graphic, ~50s.*
+## GOOGLE 1 — "Every busted Google account gets fixed the same boring way"
+*Source: https://www.tiktok.com/@gambill_/video/7663628215646276877 (@gambill_ — high-intent Search = S tier). Format: talking head + tier graphic, ~50s.*
 
-**Hook (on-screen + said):** "Every broken Google Ads account I've ever fixed got fixed the same boring way — dragging the budget back to high-intent search, the least exciting campaign in the whole platform and the only one that reliably prints."
+**Hook (on-screen + said):** "Every busted Google Ads account I've ever gotten my hands on got fixed the same boring way — dragging all the budget back to high-intent search, which is hands down the least exciting campaign in the whole platform and the only one that actually pays."
 
-**Body:** "People get seduced by the shiny stuff — Performance Max, Demand Gen, the AI campaigns Google keeps shoving in your face — because Google makes those easy to switch on and they light up your dashboard with cheap traffic. But high-intent search is somebody typing the exact thing you sell, right now, ready to buy. You control the keywords, you write tight negatives so you're not paying for tire-kickers, and yeah, you'll land in expensive auctions — but expensive clicks from ready buyers beat cheap clicks from nobody every single time. We take over accounts hemorrhaging money on autopilot campaigns, move the spend back to the searches that actually show buying intent, and the cost per lead drops without adding a dollar to the budget."
+**Body:** "Everybody gets suckered by the shiny stuff — Performance Max, Demand Gen, all the AI campaigns Google keeps shoving in your face — 'cause Google makes 'em one click to turn on and they light your dashboard up with cheap traffic that feels amazing. But high-intent search is somebody typing the exact thing you sell, right now, wallet basically already out. You control the keywords, you write tight negatives so you're not paying for tire-kickers, and yeah, you're gonna land in the pricey auctions — but one expensive click from a guy ready to buy beats a hundred cheap clicks from nobody. We take over accounts that are just bleeding money on autopilot, drag the spend back to the searches that actually mean something, and the cost per lead drops without adding a dime."
 
-**Close:** "Google will sell you the exciting campaigns. The boring one's the one that pays you."
+**Close:** "Google's gonna keep selling you the fun campaigns. Go turn the boring one back on."
 
-*Visual note: talking head; top-zone tier graphic with "High-Intent Search = S." Screen-record the search-terms report. Captions lower third.*
+*Visual note: talking head; top-zone tier graphic "High-Intent Search = S." Screen-record the search-terms report. Captions lower third.*
 
 ---
 
 ## GOOGLE 2 — "PMax is buying customers you already had"
-*Source: https://www.tiktok.com/@gambill_/video/7663628215646276877 (@gambill_ — PMax "buys your own brand traffic if you don't control keywords"). Format: talking head + screen-record of search terms, ~50s.*
+*Source: https://www.tiktok.com/@gambill_/video/7663628215646276877 (@gambill_ — PMax buys your own brand traffic). Format: talking head + screen-record of search terms, ~50s.*
 
-**Hook (on-screen + said):** "Performance Max might be spending a big chunk of your Google budget buying clicks from people who already typed your company name in — and Google will never tell you, because it makes the campaign look like a hero."
+**Hook (on-screen + said):** "Performance Max might be blowing a big chunk of your Google budget buying clicks from people who already typed your company name into the search bar — and Google's never gonna tell you, 'cause it makes the campaign look like a rockstar."
 
-**Body:** "Here's the trick nobody explains. Let PMax run wide open and it goes and scoops up your own branded searches — people who were going to find you anyway, for free — then takes credit for those conversions so your ROAS looks incredible. You think PMax is out there finding new customers, and it's really just reselling you traffic you already owned. If you're going to run it, you need brand exclusions turned on, and you need real conversion data first — it is not a campaign you open a brand-new account with. We audit accounts, pull the search terms, and half the time the 'amazing' PMax numbers are 60 percent your own brand name."
+**Body:** "This is the part nobody explains to you. You let PMax run wide open and it goes and gobbles up your own branded searches — people who were gonna find you anyway, for free — and then it takes full credit for those sales so your ROAS looks unreal. You're sitting there thinking PMax is out finding you brand-new customers, and really it's just selling you back traffic you already owned. If you're gonna run it, you flip on brand exclusions, and you better have real conversion data first, 'cause it is not the thing you open a brand-new account with. We go pull the search terms on these accounts and half the time the 'incredible' PMax numbers are like 60 percent your own brand name."
 
-**Close:** "Check what PMax is actually buying. It's probably charging you for customers you already had."
+**Close:** "Go look at what PMax is actually buying. I bet it's charging you for people who already knew you."
 
 *Visual note: talking head + screen-record the PMax search-terms / brand traffic. Top-zone: "Brand exclusions ON." Captions lower third.*
 
 ---
 
 ## GOOGLE 3 — "Two default Google settings burning your budget"
-*Source: https://www.tiktok.com/@gambill_/video/7663628215646276877 (@gambill_ — Display + Search Partners = F tier). Format: talking head + screen-record of campaign settings, ~45s.*
+*Source: https://www.tiktok.com/@gambill_/video/7663628215646276877 (@gambill_ — Display + Search Partners = F tier). Format: talking head + screen-record of settings, ~45s.*
 
-**Hook (on-screen + said):** "There are two Google Ads settings switched on by default that are dumping your budget into garbage clicks right now — Search Partners and the Display Network — and Google bundles them in on purpose."
+**Hook (on-screen + said):** "There's two Google Ads settings flipped on by default right now that are dumping your budget straight into garbage clicks — Search Partners and the Display Network — and Google bundles 'em in on purpose."
 
-**Body:** "Search Partners sounds harmless — 'your ad on other search sites' — but I've watched accounts blow 80 percent of their spend on those cheap clicks that look gorgeous on a dashboard and turn into either no leads or the worst leads your sales team has ever screamed about. Display's the same story: cheap impressions, somebody fat-fingering a banner on a free game, zero actual buyers. Both get bundled onto your search campaign so Google can spend more of your money, faster. Get into the campaign settings, uncheck Search Partners, uncheck Display expansion, and keep your search budget on actual Google search where the intent lives."
+**Body:** "Search Partners sounds harmless, right? 'Your ad on other search sites.' But I've watched accounts blow 80 percent of their spend on those cheap little clicks that look gorgeous on the dashboard and turn into either no leads or the worst leads your sales team's ever screamed at you about. Display's the same deal — dirt cheap impressions, somebody's thumb slips on a banner in some free game, not a single actual buyer. And both of 'em get quietly stapled onto your search campaign so Google can spend your money faster. Get into the campaign settings, uncheck Search Partners, uncheck the display expansion, and keep your search budget on actual Google search where people are actually looking to buy."
 
-**Close:** "Go uncheck those two boxes. That's money you're currently paying Google to waste."
+**Close:** "Go uncheck those two boxes. That's money you're straight-up paying Google to waste right now."
 
 *Visual note: talking head + screen-record the Search Partners / Display toggles in settings. Top-zone: "Search Partners OFF · Display OFF." Captions lower third.*
